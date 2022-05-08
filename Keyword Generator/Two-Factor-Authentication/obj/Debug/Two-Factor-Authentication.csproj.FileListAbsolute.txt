@@ -1,0 +1,10 @@
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\bin\Debug\Two-Factor-Authentication.exe.config
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\bin\Debug\Two-Factor-Authentication.exe
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\bin\Debug\Two-Factor-Authentication.pdb
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two-Factor-Authentication.csproj.AssemblyReference.cache
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two_Factor_Authentication.Authenticator.resources
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two_Factor_Authentication.Properties.Resources.resources
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two-Factor-Authentication.csproj.GenerateResource.cache
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two-Factor-Authentication.csproj.CoreCompileInputs.cache
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two-Factor-Authentication.exe
+C:\Users\IEUser\source\repos\Two-Factor-Authentication\Two-Factor-Authentication\obj\Debug\Two-Factor-Authentication.pdb
